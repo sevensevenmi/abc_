@@ -1,8 +1,12 @@
 脚本大集合（loon专用）
 
-订阅集合：https://raw.githubusercontent.com/pxylen/abc_/master/task/AllinOne.conf
+订阅集合：https://cdn.jsdelivr.net/gh/pxylen/abc_@master/task/AllinOne.conf
 
-cookie集合：https://raw.githubusercontent.com/pxylen/abc_/master/task/AllinOne.cookie
+cookie集合：https://cdn.jsdelivr.net/gh/pxylen/abc_@master/task/AllinOne.cookie
+
+自用QX订阅：https://cdn.jsdelivr.net/gh/pxylen/abc_@master/rule/qx.json
+
+自用QX订阅(京东)：https://cdn.jsdelivr.net/gh/pxylen/abc_@master/rule/qx_jd.json
 
 
 饮水思源：
@@ -11,7 +15,9 @@ cookie集合：https://raw.githubusercontent.com/pxylen/abc_/master/task/AllinOn
 
 [@Tartarus2014](https://github.com/Tartarus2014/Loon-Script) - 烧烤哥
 
-[@sngxpro](https://github.com/sngxpro/QuanX) - 少年歌行
+[@sngxmini](https://github.com/sngxmini/QuanX) - 少年歌行
+
+[@zwf234](https://github.com/zwf234/rules) - 奇心
 
 [@ziye](https://github.com/ziye888/JavaScript) - ziye
 
@@ -27,6 +33,8 @@ cookie集合：https://raw.githubusercontent.com/pxylen/abc_/master/task/AllinOn
 
 [@panghu999](https://github.com/panghu999/panghu) - 柠檬
 
+[@smiek2221](https://github.com/smiek2221/scripts) - smiek2221
+
 [@NobyDa](https://github.com/NobyDa/Script/tree/master) - NobyDa
 
 [@chavyleung](https://github.com/chavyleung/scripts) - chavyleung
@@ -40,6 +48,8 @@ cookie集合：https://raw.githubusercontent.com/pxylen/abc_/master/task/AllinOn
 [@Tom](https://github.com/xl2101200/-) - Tom
 
 [@gxggxl](https://github.com/gxggxl/QuantumultX) - gxggxl
+
+[@passerby-b](https://github.com/passerby-b/JDDJ) - passerby-b
 
 
 
